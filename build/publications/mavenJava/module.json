@@ -1,0 +1,72 @@
+{
+  "formatVersion": "0.4",
+  "component": {
+    "group": "dev.spiti.utilities",
+    "module": "data-reader",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "5.0",
+      "buildId": "xknvi7umfnaqno6pfab5wjv7bi"
+    }
+  },
+  "variants": [
+    {
+      "name": "runtime",
+      "attributes": {
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.poi",
+          "module": "poi-ooxml",
+          "version": {
+            "requires": "3.16"
+          }
+        },
+        {
+          "group": "com.opencsv",
+          "module": "opencsv",
+          "version": {
+            "requires": "4.1"
+          }
+        },
+        {
+          "group": "log4j",
+          "module": "log4j",
+          "version": {
+            "requires": "1.2.17"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "data-reader-1.0.0.jar",
+          "url": "data-reader-1.0.0.jar",
+          "size": 9236,
+          "sha1": "f948fb60d7e2fe20b10cec8823176bd74bd667bc",
+          "md5": "e899104d65fff300bd07ae04654d85f5"
+        }
+      ]
+    },
+    {
+      "name": "api",
+      "attributes": {
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "data-reader-1.0.0.jar",
+          "url": "data-reader-1.0.0.jar",
+          "size": 9236,
+          "sha1": "f948fb60d7e2fe20b10cec8823176bd74bd667bc",
+          "md5": "e899104d65fff300bd07ae04654d85f5"
+        }
+      ]
+    }
+  ]
+}
