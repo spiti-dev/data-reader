@@ -60,8 +60,8 @@ publishing {
         maven {
             url "https://oss.sonatype.org/service/local/staging/deploy/maven2"
             credentials {
-                username "spiti-dev"
-                password "this4Coder&Naresh"
+                username <myUserName>
+                password <password>
             }
         }
     }
@@ -116,15 +116,18 @@ model {
     }
 }
 
-signing {
-    sign configurations.archives
+if (project.hasProperty("signing.keyId")) {
+    apply plugin: 'signing'
+    signing {
+        sign configurations.archives
+    }
 }
 
 model {
     tasks.publishMavenJavaPublicationToMavenLocal {
-        dependsOn project.tasks.signArchives
+        //dependsOn project.tasks.signArchives
     }
     tasks.publishMavenJavaPublicationToMavenRepository {
-        dependsOn project.tasks.signArchives
+        //dependsOn project.tasks.signArchives
     }
 }
