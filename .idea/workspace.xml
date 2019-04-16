@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2fe421e-6f39-4625-b2ce-faf51d99599a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/dev/spiti/utility/datareader/DataReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/dev/spiti/utility/datareader/readers/BaseReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/dev/spiti/utility/datareader/readers/CSV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/dev/spiti/utility/datareader/readers/Excel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/dev/spiti/utility/datareader/readers/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/data-reader-1.0.0-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/data-reader-1.0.0-sources.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/data-reader-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/data-reader-1.0.0.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/publications/mavenJava/pom-default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/publications/mavenJava/pom-default.xml.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0-sources.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0-sources.jar.asc.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0-sources.jar.asc.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0-sources.jar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0-sources.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0.jar.asc.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0.jar.asc.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0.jar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0.pom.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0.pom.asc.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0.pom.asc.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/1.0.0/data-reader-1.0.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/maven-metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/maven-metadata.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/repos/releases/dev/spiti/utilities/data-reader/maven-metadata.xml.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/publishMavenJavaPublicationToMavenRepository/dev/spiti/utilities/data-reader/maven-metadata-remote.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/publishMavenJavaPublicationToMavenRepository/dev/spiti/utilities/data-reader/resolver-status.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/sourcesJar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/secring.gpg" beforeDir="false" />
-    </list>
+    <list default="true" id="b2fe421e-6f39-4625-b2ce-faf51d99599a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -138,6 +97,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555456595899" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -270,12 +230,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="919000" />
+    <option name="totallyTimeSpent" value="1299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -289,7 +249,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848714" visible="true" weight="0.475032" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49848714" visible="true" weight="0.475032" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.4762684" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.3277849" />
       <window_info anchor="bottom" id="Messages" order="11" />
